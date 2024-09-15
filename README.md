@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nidacet
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 📫 How to reach me nnidacetinkaya@hotmail.com
+- 📫 How to reach me nidacetinkayaa@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
